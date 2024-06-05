@@ -1,0 +1,10 @@
+D:\2nd sem\Integrated Programming\CRUD\CRUD\bin\Debug\CRUD.exe.config
+D:\2nd sem\Integrated Programming\CRUD\CRUD\bin\Debug\CRUD.exe
+D:\2nd sem\Integrated Programming\CRUD\CRUD\bin\Debug\CRUD.pdb
+D:\2nd sem\Integrated Programming\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+D:\2nd sem\Integrated Programming\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+D:\2nd sem\Integrated Programming\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+D:\2nd sem\Integrated Programming\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+D:\2nd sem\Integrated Programming\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+D:\2nd sem\Integrated Programming\CRUD\CRUD\obj\Debug\CRUD.exe
+D:\2nd sem\Integrated Programming\CRUD\CRUD\obj\Debug\CRUD.pdb

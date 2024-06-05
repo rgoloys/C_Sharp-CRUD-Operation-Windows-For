@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee>
+    <id>1010</id>
+    <name>Rolando Goloya</name>
+    <address>Mangatarem, Pangasinan</address>
+    <email>rgoloyajr@gmail.com</email>
+    <salary>10000</salary>
+  </Employee>
+  <Employee>
+    <id>1</id>
+    <name>rolando</name>
+    <salary>100</salary>
+    <email>r@gmail.com</email>
+    <address>Mangatarem</address>
+  </Employee>
+  <Employee>
+    <id>1</id>
+    <name>rolando</name>
+    <salary>100</salary>
+    <email>r@gmail.com</email>
+    <address>Mangatarem</address>
+  </Employee>
+  <Employee>
+    <id>1</id>
+    <name>rolando</name>
+    <salary>100</salary>
+    <email>r@gmail.com</email>
+    <address>Mangatarem</address>
+  </Employee>
+  <Employee>
+    <id>1001</id>
+    <name>Rolando Goloya</name>
+    <salary>1000</salary>
+    <email>rgoloya@gmail.com</email>
+    <address>Pangasinan</address>
+  </Employee>
+  <Employee>
+    <id>1001</id>
+    <name>Rolando Goloya</name>
+    <salary>1000</salary>
+    <email>rgoloya@gmail.com</email>
+    <address>Pangasinan</address>
+  </Employee>
+  <Employee>
+    <id>1001</id>
+    <name>Rolando Goloya</name>
+    <salary>1000</salary>
+    <email>rgoloya@gmail.com</email>
+    <address>Pangasinan</address>
+  </Employee>
+  <Employee>
+    <id>1001</id>
+    <name>Rolando Goloya</name>
+    <salary>1000</salary>
+    <email>rgoloya@gmail.com</email>
+    <address>Pangasinan</address>
+  </Employee>
+  <Employee>
+    <id>1001</id>
+    <name>Rolando Goloya</name>
+    <salary>1000</salary>
+    <email>rgoloya@gmail.com</email>
+    <address>Pangasinan</address>
+  </Employee>
+  <Employee>
+    <id>11</id>
+    <name>tes</name>
+    <salary>550</salary>
+    <email>r@gmail.com</email>
+    <address>tarlac</address>
+  </Employee>
+</Employees>
